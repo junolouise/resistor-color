@@ -9,7 +9,6 @@ class ResistorColorTest < Minitest::Test
   end
 
   def test_white
-    skip
     assert_equal 9, ResistorColor.color_code("white")
   end
 
