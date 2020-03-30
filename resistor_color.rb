@@ -1,8 +1,6 @@
-=begin
-Write your code for the 'Resistor Color' exercise in this file. Make the tests in
-`resistor_color_test.rb` pass.
+class ResistorColor
 
-To get started with TDD, see the `README.md` file in your
-`ruby/resistor-color` directory.
-=end
-
+  def self.color_code(color)
+    0
+  end
+end
